@@ -1,0 +1,5 @@
+Line 1: Hello, World!
+Line 2: Welcome to C++ programming.
+Line 3: This is a simple file I/O example.
+Line 4: We are writing and reading files.
+Line 5: Goodbye!

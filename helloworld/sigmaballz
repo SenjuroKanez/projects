@@ -1,0 +1,8 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+int main()
+{
+        cout << " Dekho aisa he \n Tum chutiya nai ho";
+        return 0;
+}
